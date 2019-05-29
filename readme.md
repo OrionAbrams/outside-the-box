@@ -11,7 +11,8 @@
   * **User stories**:
     * To see a lot of unexpected things happen while playing a game, possible including scraping other sites and displaying on the page when something happens in game.
 ### 3. How / Design Description
-  * Will add this later.
+  * **How to run**:
+    * Simply globally install the npm package "http-server", then type "http-server" in the root folder and navigate to one of the two addresses it is serving in a browser window.
 
 ## Versioning
   * For the versions available, see the tags on this repository.
